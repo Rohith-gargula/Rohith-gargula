@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Rohith 👋
 
-<!--
-**Rohith-gargula/Rohith-gargula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Engineer focused on building reliable, well-documented data pipelines.
 
-Here are some ideas to get you started:
+## 🔧 What I work with
+- **Languages:** Python, SQL
+- **Data:** pandas, ETL/ELT pipeline design, data cleaning & validation
+- **Databases:** SQLite, (learning: Snowflake / BigQuery)
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured project
+**[Weather ETL Pipeline](https://github.com/Rohith-gargula/weather-etl-pipeline)**
+End-to-end pipeline that extracts live weather data from a public API,
+cleans and validates it with pandas, and loads it into a SQL warehouse —
+with example analytical queries using window functions.
+
+## 🌱 Currently learning
+Airflow, dbt, and cloud data warehousing
+
+## 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/rohith-gargula/)
